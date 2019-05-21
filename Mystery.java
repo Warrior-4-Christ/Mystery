@@ -50,7 +50,7 @@ public class Mystery
             desktopPath = desktopPath.substring(0, desktopPath.indexOf("\\", desktopPath.indexOf(userName)) + 1) + "Desktop";
         }
         
-        System.out.println(desktopPath);// debug: check desktop path
+        //System.out.println(desktopPath);// debug: check desktop path
         
         if(userName.indexOf(" ") > -1) {
             userName = userName.substring(0, userName.indexOf(" "));
