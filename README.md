@@ -11,5 +11,6 @@ How to play
 Stuck?
 ------
 "Running the game doesn't do anything.  It's blank!"
+
 That means the program is functioning normally.  Try typing something.
 Search for clues that the program may have left in your filesystem.
